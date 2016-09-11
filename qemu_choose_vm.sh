@@ -4,6 +4,7 @@
 # purpose: change and run virtual machines with qemu
 # date: 11/09/2016
 # version: 1.0
+# Font: http://dhruvvyas.com/blog/?p=49 -> automation of tasks in this post
 
 ## How this script works:
 # put this script in empty folder
