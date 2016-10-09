@@ -4,6 +4,9 @@ Repository with some examples script for Linux
 # exsh3.sh
 If you need test your anti virus, your tree directory or another test in structure in your directories you can use this script to create a branch in your system to use the test
 
+# exsh4.sh
+Check if your bar code or contributor number it is real
+
 # exsh8.sh
 Write a simply letter S with your shell
 
