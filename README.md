@@ -7,6 +7,9 @@ If you need test your anti virus, your tree directory or another test in structu
 # exsh4.sh
 Check if your bar code or contributor number it is real
 
+# exsh5.sh
+Check bar code of your all bar code in your bathroom stuff, books and product of the shopping :) It works for GTIN-8, GTIN-12, GTIN-13, GTIN-14, GSIN, SSCC
+
 # exsh8.sh
 Write a simply letter S with your shell
 
