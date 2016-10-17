@@ -34,5 +34,8 @@ If you need create a mirror between drives you can following this script
 # exsh15.sh
 If you need some leisure and feel which be in matrix you can use or study this script
 
+# exsh32.sh
+Smith number: the sum of the numbers primes which compose himself number it is equal of the sum of the elements himself the number
+
 # exsh34.sh
 Numbers primes of the any one number, factorize this number
