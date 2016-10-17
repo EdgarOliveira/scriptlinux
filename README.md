@@ -32,4 +32,7 @@ If you need create many folders in your system, oftentimes, and you don't want u
 If you need create a mirror between drives you can following this script
 
 # exsh15.sh
-If you need some leisure and feel which be in matrix you can use or study this script 
+If you need some leisure and feel which be in matrix you can use or study this script
+
+# exsh34.sh
+Numbers primes of the any one number, factorize this number
