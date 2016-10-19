@@ -39,3 +39,6 @@ Smith number: the sum of the numbers primes which compose himself number it is e
 
 # exsh34.sh
 Numbers primes of the any one number, factorize this number
+
+# exsh36.sh
+Rename all files in drive with a tag
