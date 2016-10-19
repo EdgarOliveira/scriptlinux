@@ -42,3 +42,6 @@ Numbers primes of the any one number, factorize this number
 
 # exsh36.sh
 Rename all files in drive with a tag
+
+# exsh38.sh
+Caught all character after and before the first/last slash
