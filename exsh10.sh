@@ -1,4 +1,5 @@
 #!/bin/bash
+	#Useful Link: https://github.com/rg3/youtube-dl
 	#Declarar constantes
 caminho="/path/to/folder/"
 folder_base="folder/"
@@ -17,7 +18,7 @@ for ((i=0; i<=${#folder[*]}; i++));
 do	
 	cd $caminho$folder_base${folder[i]}>>$LOG
 	echo "|--------------------------------|">>$LOG
-	youtube-dl -itcv --yes-playlist ${url[i]}>>$LOG
+	youtube-dl -itcv --yes-playlist -f mp4 ${url[i]}>>$LOG
 done
 	#Registar horas de fim
 echo `date +%d/%m/%Y-%H:%M:%S`>>$LOG
